@@ -1,0 +1,7 @@
+input[type="radio"].cek{
+	display: none;
+}
+input[type="radio"].cek:checked + label {
+  background-color: #21374E;
+  color: #FFFFFF;
+}
